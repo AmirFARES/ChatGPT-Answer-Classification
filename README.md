@@ -1,6 +1,6 @@
 # ChatGPT Answer Classification Challenge 🤖
 
-![Project Image](project_image.png)
+![Project Image](https://storage.googleapis.com/kaggle-competitions/kaggle/47011/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1694971767&Signature=ARHfaxuRqgjnaijLRPcbWry%2Bb0WksedcTwiH3EQz%2Bj2uz4e4swfE%2FDBy3OxM%2FYqDllfhTNlgW3LCIllypwNoWmMowYVqZdM7bLfFmj%2Bhud7xjQOClosux%2Fwtj0Ix3d6rH0oVVGNNXNyy7vD3Ntn8qm%2BUuDQSTTGtNwvCTOH19exoxIlF8TOGKn7BzS7MOG6lbUoxl6SwlVmHgSur0IRVrOcn%2FlvMLNMwIysvEBVnpmYKZC77ppx33TpyrAWhyFtLut3jNxRUQfD1y3rLREtdnpTf6CkKaF2rADeeqFRgAfGhoB0aZP%2FeNsnzzZp9N%2F%2B4Yth9P%2Ffl%2F5Qe%2BF2DwtQz7g%3D%3D)
 
 ## Introduction 🌟
 
@@ -23,7 +23,7 @@ Here are the key files related to this project:
 - [**train.csv**](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/data) - The training dataset containing prompts and answers with ground truth labels.
 - [**test.csv**](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/data) - The test dataset for making predictions.
 - [**sample_submission.csv**](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/data) - A sample submission file with the required format.
-- [**notebook in Kaggle**](https://www.kaggle.com/code/amirfares/chat-gpt-vs-human) or [**notebook.ipynb**](./chat-gpt-vs-human.ipynb) - My Jupyter Notebook with code, analysis, and model implementation.
+- [**notebook in Kaggle**](https://www.kaggle.com/code/amirfares/chat-gpt-vs-human) or [**chat-gpt-vs-human.ipynb**](./chat-gpt-vs-human.ipynb) - My Jupyter Notebook with code, analysis, and model implementation.
 
 ## My Approach 🚀
 
@@ -39,7 +39,7 @@ Here are the key files related to this project:
 
 6. **Submission**: After obtaining satisfactory results, I created submission files for evaluation.
 
-For detailed implementation and analysis, please refer to my [notebook](link_to_notebook).
+For detailed implementation and analysis, please refer to my [notebook](./chat-gpt-vs-human.ipynb).
 
 ## Results 📈
 
@@ -63,5 +63,5 @@ I want to express my gratitude to the organizers of the ML Olympiad for providin
 
 Thank you for visiting my portfolio, and I look forward to sharing more data science projects in the future! 🚀✨
 
-[![LinkedIn](linkedin_badge.png)](https://www.linkedin.com/in/amir-f)
-[![GitHub](github_badge.png)](https://github.com/AmirFARES)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-f)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/AmirFARES)
