@@ -1,6 +1,6 @@
 # ChatGPT Answer Classification Challenge 🤖
 
-![Project Image](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/competitions/47011/images/header)
+![Project Image](https://image.sciencenorway.no/2175594.webp?imageId=2175594&width=960&height=548&format=jpg)
 
 ## Introduction 🌟
 
