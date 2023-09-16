@@ -20,9 +20,9 @@ This challenge is part of the ML Olympiad organized by IEEE ESSTHS Student Branc
 
 Here are the key files related to this project:
 
-- [**train.csv**](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/data) - The training dataset containing prompts and answers with ground truth labels.
-- [**test.csv**](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/data) - The test dataset for making predictions.
-- [**sample_submission.csv**](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/data) - A sample submission file with the required format.
+- [**train.csv**](./train.csv) - The training dataset containing prompts and answers with ground truth labels.
+- [**test.csv**](./test.csv) - The test dataset for making predictions.
+- [**sample_submission.csv**](./sample_submission.csv) - A sample submission file with the required format.
 - [**notebook in Kaggle**](https://www.kaggle.com/code/amirfares/chat-gpt-vs-human) or [**chat-gpt-vs-human.ipynb**](./chat-gpt-vs-human.ipynb) - My Jupyter Notebook with code, analysis, and model implementation.
 
 ## My Approach 🚀
