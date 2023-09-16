@@ -1,6 +1,6 @@
 # ChatGPT Answer Classification Challenge 🤖
 
-![Project Image](https://storage.googleapis.com/kaggle-competitions/kaggle/47011/logos/thumb76_76.png?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1694971767&Signature=ARHfaxuRqgjnaijLRPcbWry%2Bb0WksedcTwiH3EQz%2Bj2uz4e4swfE%2FDBy3OxM%2FYqDllfhTNlgW3LCIllypwNoWmMowYVqZdM7bLfFmj%2Bhud7xjQOClosux%2Fwtj0Ix3d6rH0oVVGNNXNyy7vD3Ntn8qm%2BUuDQSTTGtNwvCTOH19exoxIlF8TOGKn7BzS7MOG6lbUoxl6SwlVmHgSur0IRVrOcn%2FlvMLNMwIysvEBVnpmYKZC77ppx33TpyrAWhyFtLut3jNxRUQfD1y3rLREtdnpTf6CkKaF2rADeeqFRgAfGhoB0aZP%2FeNsnzzZp9N%2F%2B4Yth9P%2Ffl%2F5Qe%2BF2DwtQz7g%3D%3D)
+![Project Image](https://www.kaggle.com/competitions/ml-olympiad-detect-chatgpt-answers/competitions/47011/images/header)
 
 ## Introduction 🌟
 
